@@ -7,4 +7,4 @@ function dn(){
         dn(x);
     }
 }
-dn()
+dn(1)
